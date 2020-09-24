@@ -10,6 +10,8 @@
   "dependencies": {
     "date-fns": "^2.16.1",
     "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "typeorm": "^0.2.26",
     "uuid": "^8.3.0"
   },
   "devDependencies": {
