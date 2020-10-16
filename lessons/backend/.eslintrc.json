@@ -26,6 +26,7 @@
     ],
     "prettier/prettier": "error",
     "space-before-function-paren": "off",
+    "camelcase": "off",
     "@typescript-eslint/explicit-function-return-type": "warn"
   },
   "settings": {
